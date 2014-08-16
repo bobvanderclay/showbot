@@ -1,0 +1,19 @@
+{
+  "name": "showbot",
+  "version": "0.1.0",
+  "description": "Slack bot with podcasting skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob VanderClay <bob@vanderclay.net>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.6.4",
+    "express": "^4.8.4",
+    "request": "^2.40.0",
+    "slackhook": "^1.0.0",
+    "underscore": "^1.6.0",
+    "underscore.string": "^2.3.3"
+  }
+}
